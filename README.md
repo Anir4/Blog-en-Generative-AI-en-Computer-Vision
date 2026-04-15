@@ -64,7 +64,7 @@ $$x_{new} \sim p_\theta(x)$$
 
 ### Le paysage du Generative AI en CV
 
-![GenAI Timeline](https://www.researchgate.net/profile/Muhammad-Irfan-398/publication/384119825/figure/fig1/AS:11431281278644680@1726727322880/A-brief-timeline-2014-2024-of-generative-AI-development.png)  
+![GenAI Timeline](https://cdn.shopaccino.com/igmguru/images/generative-ai-evolution-68166659436944-1112253555507346.jpg)  
 *Figure 1 — Vue d'ensemble du Generative AI (Source : researchgate)*
 
 ---
@@ -141,7 +141,9 @@ Imagine un **faussaire de billets de banque** (le Générateur) qui essaie de cr
 - Le détective s'améliore pour détecter le faussaire.
 - Résultat : après des millions de rounds, le faussaire crée des billets **parfaitement convaincants**.
 
-![GAN Architecture](https://upload.wikimedia.org/wikipedia/commons/8/83/Generative_adversarial_network.svg)  
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Generative_adversarial_network.svg" alt="GAN Architecture" width="500"/>
+</p>  
 *Figure 3 — Architecture GAN : Générateur vs Discriminateur (Source : Wikimedia Commons)*
 
 ---
