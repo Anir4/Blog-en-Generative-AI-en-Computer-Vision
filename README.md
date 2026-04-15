@@ -10,6 +10,14 @@
 
 ---
 
+## Remerciements
+
+Nous tenons à exprimer nos sincères remerciements à **Pr BASMA SAAD**, pour son encadrement, son soutien et la qualité de ses enseignements tout au long de ce travail.
+
+Ses conseils, sa disponibilité et ses orientations ont été précieux pour la réalisation de ce projet sur le **Generative AI en Computer Vision**.
+
+Nous lui sommes également reconnaissants pour l’opportunité d’apprentissage et pour l’intérêt qu’elle porte à la rigueur académique et à la progression de ses étudiants.
+
 ## Table des matières
 
 1. [C'est quoi le Generative AI en Computer Vision ?](#1-cest-quoi-le-generative-ai-en-computer-vision-)
