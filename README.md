@@ -4,7 +4,7 @@
 > Anir Idhmad  
 > Mouad Lembarek  
 > Houssam Hanzazi  
-> Abdelali Hirri
+> Abdelali Hirri  
 > **Encadrante :** Pr BASMA SAAD  
 > **Date :** Avril 2026  
 > **Tags :** `#GenerativeAI` `#ComputerVision` `#GAN` `#VAE` `#DiffusionModels` `#DeepLearning`
